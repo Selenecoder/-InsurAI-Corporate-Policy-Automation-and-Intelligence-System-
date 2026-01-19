@@ -395,14 +395,6 @@ const roles = [
 ];
 
 const accessActions = [
-  {
-    title: "New Employee",
-    desc: "Create a secure InsurAI employee profile.",
-    button: "Register Employee",
-    path: "/employee/register",
-    icon: "✨",
-    accent: theme.neonBlue,
-  },
    {
     title: "Employee Portal",
     desc: "Manage policies, claims, and support.",
